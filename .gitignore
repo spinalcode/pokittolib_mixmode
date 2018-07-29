@@ -1,0 +1,12 @@
+/obj
+*.zip
+*.usbeecomp
+*.o
+*.i
+*.s
+*.d
+*.mpg
+*.layout
+*.map
+*.elay
+
